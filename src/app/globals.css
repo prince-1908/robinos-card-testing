@@ -808,3 +808,16 @@ h3 {
 .border-darkblue-lighter {
   border-color: #202c5d;
 }
+
+.border-slate-light {
+  border: 2px solid #f8f8f8;
+}
+
+.bg-slate-gradient {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(248, 248, 248, 1) 100%
+  );
+}

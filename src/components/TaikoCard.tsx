@@ -34,7 +34,7 @@ export const TaikoCard = ({ img }: { img: (string | null)[] }) => {
                             BEL
                         </div>
                         <span
-                            className={`text-14 font-medium ml-[5px] 'negative`}
+                            className={`text-14 font-medium ml-[5px] negative`}
                         >
                             -0.5
                         </span>
@@ -71,7 +71,7 @@ export const TaikoCard = ({ img }: { img: (string | null)[] }) => {
                             ITA
                         </div>
                         <span
-                            className={`text-14 font-medium ml-[5px] 'positive'`}
+                            className={`text-14 font-medium ml-[5px] positive`}
                         >
                             0.5
                         </span>
